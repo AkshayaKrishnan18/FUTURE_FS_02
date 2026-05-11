@@ -231,6 +231,7 @@ https://github.com/AkshayaKrishnan18/FUTURE_FS_02
 <img src="dashboard.png" width="80%" />
 <img src="leads.png" width="80%" />
 <img src="bottom.png" width="80%" />
+<img src="mobile.png" width="40%" />
 
 ---
 
